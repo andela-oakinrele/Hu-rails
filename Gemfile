@@ -59,3 +59,7 @@ group :production do
 end
 
 gem 'sucker_punch'
+
+gem 'dotenv'
+
+gem 'letter_opener'
